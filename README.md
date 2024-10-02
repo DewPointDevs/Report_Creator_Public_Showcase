@@ -19,15 +19,26 @@ The report contains:
       <img src="./assets/IMG_1501.PNG" height="500">
     </td>
     <td>
-      <img src="./assets/IMG_1502.PNG" height="500">
+      <img src="./assets/new_1.png" height="500">
     </td>
   </tr>
   <tr>
     <td>
-      <img src="./assets/IMG_1500.PNG" height="500">
+      <img src="./assets/new_2.png" height="500">
     </td>
     <td>
-      <img src="./assets/IMG_1505.PNG" height="500">
+      <img src="./assets/new_3.png" height="500">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="./assets/new_4.png" height="500">
+    </td>
+    <td>
+      <img src="./assets/new_5.png" height="500">
+    </td>
+    <td>
+      <img src="./assets/new_6.png" height="500">
     </td>
   </tr>
 </table>
